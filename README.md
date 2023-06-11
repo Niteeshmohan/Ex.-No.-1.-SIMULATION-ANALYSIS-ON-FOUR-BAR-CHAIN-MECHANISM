@@ -53,7 +53,11 @@
 
 
 ## Output:
-![eig](1.png)
+![eig](1out.png)
+
+## Velocity diagram and Acceleration diagram:
+![eig](1dia.png)
+
 
 ### Name:NITEESH.M
 ### Register Number:212222230098 
